@@ -1,6 +1,6 @@
 # API de chamados de suporte — Semana 01
 
-**Estudante:** Gabriella Nascimento
+**Estudante:** Arthur Rebouças do Carmo
 
 ## Objetivo
 
